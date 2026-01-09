@@ -1,0 +1,4 @@
+project_id    = "your-gcp-project-id"
+region        = "us-central1"
+upstream_host = "your-sgtm-instance.a.run.app"
+custom_domain = ""  # Optional: "gtm.yourdomain.com"
